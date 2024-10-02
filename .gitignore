@@ -1,0 +1,9 @@
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdatad/
+*.xcworkspace/
+*.swp
+*.DS_Store
+/.build/
+Package.resolved
